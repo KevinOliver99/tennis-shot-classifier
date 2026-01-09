@@ -47,8 +47,6 @@ ffmpeg -version
 
 ## Data Generation Pipeline
 
-The project includes 4 tennis broadcast recordings used for creating the pipeline in `Data\Full Recordings`. It also contains a dataset of roughly 3000 normalized pose sequences in `Data\Poses`, along with `Data\shot_annotations.json`.
-
 ### 1. Download Data
 Download full match broadcasts from YouTube as separate MP4 and MP3 files inside a dedicated subdirectory of `Data\Full Recording`.
 
